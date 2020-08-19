@@ -46,6 +46,10 @@ Fase: Se corresponde al desplazamiento horizontal experimentado por la onda, res
 
 ![Partes de la onda senoidal](https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/Partes_de_la_onda_senoidal.jpg)
 
+4.-MATERIALES Y EQUIPOS
+
+
+
 7.5. 2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 KHz. 
 
