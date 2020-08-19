@@ -119,3 +119,6 @@ Bibliografia.-
 Ondas senoidales. Recobrado de: iessierradeguara.com
 
 Boylestad, R. 2011. Introducción al análisis de circuitos. 12va. Edición. Pearson. 327-376.
+
+Cronograma: 
+![](https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/L7%20CRONO.png)
