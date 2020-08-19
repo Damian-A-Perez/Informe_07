@@ -52,7 +52,7 @@ Fase: Se corresponde al desplazamiento horizontal experimentado por la onda, res
 
 5.1. Implemente el circuito que se presenta en la figura
 
-
+![Circuito](https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/Circuito.png)
 
 5.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 KHz. 
