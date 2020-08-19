@@ -8,6 +8,8 @@ DOCENTE: DARWIN OMAR ALULEMA FLORES
  
 NRC:  8703
 
+En esta practica de laboratorio analizaremos las ondas senoidales que se encuentran en un circuito con corriente alterna, para esto utilizaremos una fuente de voltaje a.c la cual ira conectada a dos resistencias, observaremos el comportamiento del voltaje en una de estas resistencias con la ayuda de un osciloscopio y de esta forma determinaremos las caracteristicas de la onda.
+
 7.5. 2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 KHz. 
 
