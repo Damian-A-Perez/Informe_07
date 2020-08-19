@@ -10,6 +10,10 @@ NRC:  8703
 
 En esta practica de laboratorio analizaremos las ondas senoidales que se encuentran en un circuito con corriente alterna, para esto utilizaremos una fuente de voltaje a.c la cual ira conectada a dos resistencias, observaremos el comportamiento del voltaje en una de estas resistencias con la ayuda de un osciloscopio y de esta forma determinaremos las caracteristicas de la onda.
 
+1.-PLANTEAMIENTO DEL PROBLEMA
+
+Determinaremos las caracteristicas de una onda onda senoidal cuando un circuito se encuentra conectado a una fuente de voltaje alterna, midiendo el voltaje de la resistencia RL
+
 7.5. 2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 KHz. 
 
@@ -61,7 +65,3 @@ Recomendaciones.-
 
 -Debemos tomar en cuenta el simulador a usar y la manera de conectarse al elemento requerido del osiloscopio y de cada uno de los elementos de medicion o de componentes necesario dentro del circuito, para evitar errores.
 -Considerar el uso de un 
-
-
-
-![cronograma](https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/L7%20CRONO.png)
