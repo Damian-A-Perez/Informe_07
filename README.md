@@ -12,7 +12,17 @@ En esta practica de laboratorio analizaremos las ondas senoidales que se encuent
 
 1.-PLANTEAMIENTO DEL PROBLEMA
 
-Determinaremos las caracteristicas de una onda onda senoidal cuando un circuito se encuentra conectado a una fuente de voltaje alterna, midiendo el voltaje de la resistencia RL
+Determinaremos las caracteristicas de una onda onda senoidal cuando un circuito se encuentra conectado a una fuente de voltaje alterna, midiendo el voltaje de la resistencia RL.
+
+2.-OBJETIVO DE LA PRACTICA
+
+Determinar experimentalmente las características de señales senoidales.
+
+2.1.-OBJETIVOS ESPECÍFICOS
+
+2.1.1. Analizar el comportamiento de las ondas senoidales en un circuito.
+
+2.1.2. Especificar las caracteristicas de las ondas senoidales en el circuito.
 
 7.5. 2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 KHz. 
