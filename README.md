@@ -52,7 +52,9 @@ Fase: Se corresponde al desplazamiento horizontal experimentado por la onda, res
 
 5.1. Implemente el circuito que se presenta en la figura
 
-5. 2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
+
+
+5.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 KHz. 
 
 5.3. Conecte el osciloscopio al resistor de carga RL
@@ -76,7 +78,7 @@ una frecuencia de 2.5 KHz.
 
  -100µs
   
-7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio? 
 
 -Amplitud de voltaje: 6.8 (V) 
