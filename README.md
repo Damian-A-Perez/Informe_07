@@ -61,3 +61,7 @@ Recomendaciones.-
 
 -Debemos tomar en cuenta el simulador a usar y la manera de conectarse al elemento requerido del osiloscopio y de cada uno de los elementos de medicion o de componentes necesario dentro del circuito, para evitar errores.
 -Considerar el uso de un 
+
+
+
+![cronograma] (https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/L7%20CRONO.png)
