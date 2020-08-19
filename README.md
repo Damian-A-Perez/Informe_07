@@ -54,3 +54,8 @@ salida.
 
 ¿Por qué?
 -Porque el valor que registra el multímetro en el valor eficaz Vrms que queda al dividir el valor de la amplitud por raíz de dos.
+
+Recomendaciones.-
+
+-Debemos tomar en cuenta el simulador a usar y la manera de conectarse al elemento requerido del osiloscopio y de cada uno de los elementos de medicion o de componentes necesario dentro del circuito, para evitar errores.
+-Considerar el uso de un 
