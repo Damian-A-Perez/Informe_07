@@ -30,7 +30,7 @@ Ondas Senoidales.-
 
 Las ondas senoidales representan el valor de la tensión de la corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo. Responde a la corriente de canalización generada en las grandes plantas eléctricas del mundo. También responden a la misma forma, todas las corrientes destinadas a generar los campos electromagnéticos de las ondas de radio. 
 
-
+![Onda senoidal](https://github.com/Damian-A-Perez/Informe_07/tree/master/Img)
 
 Partes de las ondas senoidales.-
 
