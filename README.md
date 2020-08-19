@@ -48,13 +48,17 @@ Fase: Se corresponde al desplazamiento horizontal experimentado por la onda, res
 
 ![Materiales](https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/Materiales.png)
 
-7.5. 2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
+5.-PROCEDIMIENTO
+
+5.1. Implemente el circuito que se presenta en la figura
+
+5. 2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 KHz. 
 
-7.5.3. Conecte el osciloscopio al resistor de carga RL
+5.3. Conecte el osciloscopio al resistor de carga RL
 . Observe la señal que aparece en el osciloscopio. 
 ![Holo](https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/Frantic%20Jarv-Gaaris.png)
-7.5.4. Responda las siguientes preguntas:
+5.4. Responda las siguientes preguntas:
  
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
@@ -78,17 +82,17 @@ del osciloscopio?
 -Amplitud de voltaje: 6.8 (V) 
 -Periodo: 400µ(s)
   
- 7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+ 5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida. 
 
 -f: 2.5k(Hz)
 -ω: 5000π(rad/s) 
 
-7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
+5.7. Con el multímetro digital mida el voltaje de salida en RL: 
 
 -4.861(V)
 
-7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 ¿Coinciden? 
 -No Coinciden 
 
