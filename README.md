@@ -113,3 +113,9 @@ Recomendaciones.-
 
 -Debemos tomar en cuenta el simulador a usar y la manera de conectarse al elemento requerido del osiloscopio y de cada uno de los elementos de medicion o de componentes necesario dentro del circuito, para evitar errores.
 -Considerar el uso de un 
+
+Bibliografia.-
+
+Ondas senoidales. Recobrado de: iessierradeguara.com
+
+Boylestad, R. 2011. Introducción al análisis de circuitos. 12va. Edición. Pearson. 327-376.
