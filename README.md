@@ -30,8 +30,6 @@ Ondas Senoidales.-
 
 Las ondas senoidales representan el valor de la tensión de la corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo. Responde a la corriente de canalización generada en las grandes plantas eléctricas del mundo. También responden a la misma forma, todas las corrientes destinadas a generar los campos electromagnéticos de las ondas de radio. 
 
-![Onda senoidal](https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/Onda_senoidal.png)
-
 Partes de las ondas senoidales.-
 
 Periodo: Es el tiempo que tarda en repetirse una fase de la onda.
@@ -48,7 +46,7 @@ Fase: Se corresponde al desplazamiento horizontal experimentado por la onda, res
 
 4.-MATERIALES Y EQUIPOS
 
-
+![Materiales](https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/Materiales.png)
 
 7.5. 2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 KHz. 
