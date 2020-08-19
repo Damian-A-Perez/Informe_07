@@ -44,7 +44,7 @@ Frecuencia: Es la cantidad de ciclos que ocurren en 1 segundo.
 
 Fase: Se corresponde al desplazamiento horizontal experimentado por la onda, respecto a un tiempo tomado como referencia.
 
-![Partes de la onda senoidal](https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/Partes de la onda senoidal.jpg)
+![Partes de la onda senoidal](https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/Partes de la onda senoidal.png)
 
 7.5. 2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 KHz. 
