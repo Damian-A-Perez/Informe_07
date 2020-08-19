@@ -30,7 +30,7 @@ Ondas Senoidales.-
 
 Las ondas senoidales representan el valor de la tensión de la corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo. Responde a la corriente de canalización generada en las grandes plantas eléctricas del mundo. También responden a la misma forma, todas las corrientes destinadas a generar los campos electromagnéticos de las ondas de radio. 
 
-La Corriente alterna se genera por diferentes métodos. Los más utilizados son los mecánicos rotativos, o alternadores de las bobinas eléctricas, para grandes potencias, y los electrónicos cuando las mismas son pequeñas. Esta manera de generar la corriente, determinará su Ley de Variación con respecto al tiempo.
+
 
 Partes de las ondas senoidales.-
 
@@ -86,6 +86,14 @@ salida.
 
 ¿Por qué?
 -Porque el valor que registra el multímetro en el valor eficaz Vrms que queda al dividir el valor de la amplitud por raíz de dos.
+
+Conclusiones.-
+
+-Las ondas senoidales son perfectas para representar el comportamiento de la corriente alterna.
+
+-El voltaje variara en funcion del tiempo, sin embargo nunca sera mayor a su valor pico.
+
+-El osciloscopio nos permite analizar la onda senoidal y sus caracteristicas.
 
 Recomendaciones.-
 
