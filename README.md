@@ -33,10 +33,15 @@ Las ondas senoidales representan el valor de la tensión de la corriente alterna
 
 
 Partes de las ondas senoidales.-
+
 Periodo: Es el tiempo que tarda en repetirse una fase de la onda.
+
 Amplitud: Este valor máximo es justamente la amplitud de la onda, también es conocida como amplitud pico.
+
 Ciclo: Es la parte de la onda contenida en un periodo.
+
 Frecuencia: Es la cantidad de ciclos que ocurren en 1 segundo.
+
 Fase: Se corresponde al desplazamiento horizontal experimentado por la onda, respecto a un tiempo tomado como referencia.
 
 7.5. 2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
