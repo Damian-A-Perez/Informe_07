@@ -64,4 +64,4 @@ Recomendaciones.-
 
 
 
-![cronograma] (https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/L7%20CRONO.png)
+![cronograma](https://github.com/Damian-A-Perez/Informe_07/blob/master/Img/L7%20CRONO.png)
