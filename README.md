@@ -112,7 +112,7 @@ Conclusiones.-
 Recomendaciones.-
 
 -Debemos tomar en cuenta el simulador a usar y la manera de conectarse al elemento requerido del osiloscopio y de cada uno de los elementos de medicion o de componentes necesario dentro del circuito, para evitar errores.
--Considerar el uso de un 
+-Considerar en el uso de una fuente de poder variable, todas las componentes necesarias para obtener una señal de onda precisa.
 
 Bibliografia.-
 
